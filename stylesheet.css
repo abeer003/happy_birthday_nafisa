@@ -25,13 +25,13 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #d9edf7;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #d9edf7;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #d9edf7;
 	}
 	75%{
 		background-color: #FFEFD5;
